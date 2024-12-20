@@ -1,0 +1,6 @@
+Corrigir:
+
+Cores dos social links
+Corrigir bug da imagem black/light
+Configurar o GitHub para criar múltiplos projetos no mesmo portfólio
+Criar e-book para disponibilizar o link
